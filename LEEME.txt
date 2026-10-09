@@ -1,0 +1,23 @@
+BODA DE DANA Y ARTURO — DIGITAL PRO
+
+Subir el contenido completo de esta carpeta al repositorio de GitHub Pages:
+index.html, estilo.css, invitacion.js, boda.ics y la carpeta assets.
+Mantener los nombres y rutas. El archivo index.html debe quedar en la raíz.
+
+DATOS PENDIENTES
+28 de noviembre de 2026. Confirmación: +59161612739.
+16:00 ceremonia y 19:00 recepción son horarios ficticios autorizados para la muestra.
+Capilla Jardín Dorado y Salón Aurora Dorada son lugares ficticios.
+Los botones de ubicación explican que falta confirmar y permiten consultar por WhatsApp.
+Sustituir estos ejemplos y agregar los enlaces de Maps antes de compartir con invitados.
+El calendario guarda el día completo porque los horarios son provisionales.
+
+La música empieza al tocar el sello; el navegador requiere esta interacción.
+Compartir/copiar enlace funciona con la dirección publicada, no con una vista local.
+Digital Pro: WhatsApp +59179352293.
+
+ARTE
+Flores generadas con ImageGen: rosas y follaje metálicos dorado champán, composición
+botánica en esquina, fondo transparente, sin letras. Convertido a WebP con FFmpeg.
+Música suministrada por el usuario, convertida a MP3 para reproducción web.
+Tipografía y licencia incluidas en assets.

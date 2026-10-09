@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Dana y Arturo//ES
+BEGIN:VEVENT
+UID:dana-arturo-20261128@digitalpro
+DTSTAMP:20261008T120000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Boda de Dana y Arturo
+LOCATION:Cochabamba - ubicación por confirmar
+DESCRIPTION:Reserva la fecha. Lugares y horarios pendientes de confirmar. Consultas: +59161612739.
+END:VEVENT
+END:VCALENDAR
