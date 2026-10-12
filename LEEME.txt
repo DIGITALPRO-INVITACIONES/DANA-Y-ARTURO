@@ -1,23 +1,19 @@
-BODA DE DANA Y ARTURO — DIGITAL PRO
+BODA DE DANA Y ARTURO — NEGRO Y DORADO
+28 de noviembre de 2026, Cochabamba.
+Ceremonia: Iglesia de Cala Cala.
+https://maps.app.goo.gl/TdEdeBBqvhhUmmCM9?g_st=awb
+Recepción: Salón de eventos Villa Fiorita.
+https://maps.app.goo.gl/2e1ZSAuY3cEXa5LH6?g_st=awb
+Confirmación: +59161612739. Digital Pro: +59179352293.
+Horarios confirmados: ceremonia 17:30, recepción 18:00, hora de Bolivia.
+El calendario incluye los dos eventos y el conteo llega a la ceremonia.
 
-Subir el contenido completo de esta carpeta al repositorio de GitHub Pages:
-index.html, estilo.css, invitacion.js, boda.ics y la carpeta assets.
-Mantener los nombres y rutas. El archivo index.html debe quedar en la raíz.
-
-DATOS PENDIENTES
-28 de noviembre de 2026. Confirmación: +59161612739.
-16:00 ceremonia y 19:00 recepción son horarios ficticios autorizados para la muestra.
-Capilla Jardín Dorado y Salón Aurora Dorada son lugares ficticios.
-Los botones de ubicación explican que falta confirmar y permiten consultar por WhatsApp.
-Sustituir estos ejemplos y agregar los enlaces de Maps antes de compartir con invitados.
-El calendario guarda el día completo porque los horarios son provisionales.
-
-La música empieza al tocar el sello; el navegador requiere esta interacción.
-Compartir/copiar enlace funciona con la dirección publicada, no con una vista local.
-Digital Pro: WhatsApp +59179352293.
-
-ARTE
-Flores generadas con ImageGen: rosas y follaje metálicos dorado champán, composición
-botánica en esquina, fondo transparente, sin letras. Convertido a WebP con FFmpeg.
-Música suministrada por el usuario, convertida a MP3 para reproducción web.
+PUBLICACIÓN
+Subir a la raíz del repositorio index.html, estilo.css, negro-dorado.css,
+invitacion.js, boda.ics y la carpeta assets completa. No subir solo el ZIP.
+La música Reik proporcionada por el cliente empieza al tocar el sello.
+Incluye tres fotos proporcionadas por el cliente, con marcos dorados y visor
+de fotografía completa. Las fotos se conservan en blanco y negro.
+Las imágenes y el audio están comprimidos para uso web.
+Flores doradas creadas previamente con ImageGen integrado.
 Tipografía y licencia incluidas en assets.
