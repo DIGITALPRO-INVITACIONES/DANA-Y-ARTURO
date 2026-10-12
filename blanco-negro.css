@@ -1,0 +1,21 @@
+:root{--ink:#eeeeee;--gold:#e5e5e5;--light:#ffffff;--line:#ffffff45}
+body{background:#080808;color:#eeeeee}
+.hero-title-card,.family-inner,.event-grid,.closing{background:#fafafa;color:#202020}
+.hero h1,.family h2,.parents-grid p,.godparents,.event-card h3,.venue,.closing-names{color:#171717}
+.hero h1 i,.editorial-wedding,.editorial-date,.hero-title-card>.eyebrow,.full-names,.family .eyebrow,.family-role,.family h2 em,.godparents>span,.family-thanks,.event-icon,.event-number,.event-time,.city,.closing>.eyebrow,.closing-date,.closing-names>span,.closing .text-link,.closing .status{color:#555555}
+.envelope-heading,.envelope-cover>.eyebrow,.envelope-instruction,.envelope-names,.hero-verse,h2 em,.countdown strong,.signature,.promise em,.closing-date{color:#eeeeee}
+.closing-date{color:#444444}
+.envelope-music,.envelope-welcome{color:#d3d3d3}
+.postal-seal{background:radial-gradient(circle at 30% 25%,#ffffff,#dbdbdb 67%,#a5a5a5);border-color:#777777;color:#333333}
+.invitation-slip,.date-slip{background:#fafafa;border-color:#bbbbbb;color:#333333}
+.slip-script,.slip-small,.slip-date,.slip-action,.photo-slip>span{color:#333333}
+.slip-border{border-color:#bbbbbb}.slip-action{border-color:#777777}
+.photo-slip{background:#ffffff;border-color:#bbbbbb}
+.postal-back,.postal-flap{border-color:#bfbfbf}.postal-front:after{border-bottom-color:#bfbfbf}
+.family-inner,.event-grid,.editorial-photo,.memory-frame,.calendar-card{border-color:#bebebe;outline-color:#bebebe}
+.button{background:#fafafa;color:#202020;border-color:#ffffff;box-shadow:none}
+.button.outline,.event-card>.button,.closing .button.outline{background:#171717;color:#ffffff;border-color:#ababab}
+.calendar-days .selected{background:#ffffff;color:#151515;outline-color:#cccccc}
+.sparkle{color:#ffffff;text-shadow:0 0 4px #ffffffaa,0 0 10px #ffffff55}
+.controls button{color:#ffffff;border-color:#bfbfbf}
+.photo-dialog{color:#eeeeee;border-color:#aaaaaa}.photo-dialog>p,.photo-close,.photo-navigation>span,.photo-navigation>button{color:#eeeeee}.photo-navigation>button{border-color:#bbbbbb}

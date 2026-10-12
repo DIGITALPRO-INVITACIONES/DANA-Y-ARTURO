@@ -1,4 +1,4 @@
-BODA DE DANA Y ARTURO — NEGRO Y DORADO
+BODA DE DANA Y ARTURO — NEGRO Y BLANCO
 28 de noviembre de 2026, Cochabamba.
 Ceremonia: Iglesia de Cala Cala.
 https://maps.app.goo.gl/TdEdeBBqvhhUmmCM9?g_st=awb
@@ -10,10 +10,18 @@ El calendario incluye los dos eventos y el conteo llega a la ceremonia.
 
 PUBLICACIÓN
 Subir a la raíz del repositorio index.html, estilo.css, negro-dorado.css,
-invitacion.js, boda.ics y la carpeta assets completa. No subir solo el ZIP.
+sobre-editorial.css, invitacion.js, boda.ics y la carpeta assets completa. No subir solo el ZIP.
 La música Reik proporcionada por el cliente empieza al tocar el sello.
 Incluye tres fotos proporcionadas por el cliente, con marcos dorados y visor
 de fotografía completa. Las fotos se conservan en blanco y negro.
 Las imágenes y el audio están comprimidos para uso web.
-Flores doradas creadas previamente con ImageGen integrado.
 Tipografía y licencia incluidas en assets.
+
+DISEÑO DEL VIDEO
+Sobre negro con sello blanco: primer toque abre la solapa y despliega tres
+tarjetas. La tarjeta central entra a la invitación, la fotografía abre el visor
+y la tarjeta pequeña descarga el calendario. Música Reik al abrir el sobre.
+Diseño de papelería editorial con tarjetas blancas, fotos en blanco
+y negro, fondo negro y bloques de información, inspirado en el video del cliente.
+Los horarios de la referencia no se copiaron: ceremonia 17:30 y recepción 18:00.
+Incluir también blanco-negro.css al publicar. Paleta final: negro y blanco.

@@ -4,6 +4,19 @@ const music = $('music');
 music.volume = .6;
 function musicState(){const playing=!music.paused;$('music-toggle').setAttribute('aria-pressed',String(playing));$('music-toggle').setAttribute('aria-label',playing?'Pausar música':'Reproducir música');$('music-toggle').innerHTML=(playing?'Ⅱ':'♫')+' <span>Música</span>';}
 music.addEventListener('play',musicState);music.addEventListener('pause',musicState);
+$('envelope-toggle').addEventListener('click',()=>{
+  $('envelope-scene').classList.add('unsealed');
+  $('envelope-toggle').setAttribute('aria-expanded','true');
+  $('envelope-toggle').disabled=true;
+  music.play().catch(musicState);
+  setTimeout(()=>{
+    $('open').disabled=false;
+    document.querySelector('.cover-photo-open').disabled=false;
+    $('date-slip').removeAttribute('tabindex');
+    $('envelope-instruction').textContent='Toca la tarjeta central para entrar a nuestra invitación';
+    $('open').focus({preventScroll:true});
+  },1000);
+});
 $('open').addEventListener('click',()=>{
   $('open').disabled=true;$('invitation').hidden=false;$('controls').hidden=false;
   music.play().catch(musicState);$('cover').classList.add('opening');
@@ -28,7 +41,7 @@ const photos = [
 ];
 let activePhoto=0;
 function showPhoto(index){activePhoto=(index+photos.length)%photos.length;const photo=photos[activePhoto];$('photo-full').src=photo.src;$('photo-full').alt=photo.alt;$('photo-title').textContent=photo.caption;$('photo-count').textContent=`${activePhoto+1} / ${photos.length}`;}
-document.querySelectorAll('.photo-open').forEach(button=>button.addEventListener('click',()=>{showPhoto(Number(button.dataset.photo));$('photo-dialog').showModal();}));
+document.querySelectorAll('.photo-open,.cover-photo-open').forEach(button=>button.addEventListener('click',()=>{showPhoto(Number(button.dataset.photo));$('photo-dialog').showModal();}));
 $('photo-close').addEventListener('click',()=>$('photo-dialog').close());
 $('photo-prev').addEventListener('click',()=>showPhoto(activePhoto-1));
 $('photo-next').addEventListener('click',()=>showPhoto(activePhoto+1));
