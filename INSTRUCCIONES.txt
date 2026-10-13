@@ -1,0 +1,21 @@
+ACTIVAR EL SOBRE NEGRO EN LA VISTA PREVIA DEL ENLACE
+
+1. Descomprime Dana-Arturo-actualizar-vista-previa.zip.
+2. En el repositorio DANA-Y-ARTURO de GitHub, reemplaza index.html por el nuevo.
+3. Dentro de assets, sube sobre-vista-previa.jpg.
+4. Guarda los cambios y espera que GitHub Pages termine de publicar.
+5. Pega https://digitalpro-invitaciones.github.io/DANA-Y-ARTURO/ en un chat
+   de WhatsApp y espera la vista previa antes de enviar.
+
+No enviar únicamente la imagen como fotografía: comparte el enlace.
+La imagen no es un botón independiente; representa la vista previa del enlace.
+Si se sigue viendo una portada anterior, prueba:
+https://digitalpro-invitaciones.github.io/DANA-Y-ARTURO/?sobre=1
+La apariencia y disponibilidad de la vista previa dependen de WhatsApp y sus ajustes.
+
+Configuración: Open Graph con URL absoluta, imagen JPEG 1200x630,
+nombre de los novios, descripción, fecha y texto alternativo.
+Referencia: https://ogp.me/
+Arte creado con ImageGen integrado: sobre negro cerrado, sello blanco D&A,
+texto Dana & Arturo, Abre nuestra invitación, 28 NOVIEMBRE 2026;
+fondo negro, marco blanco, composición horizontal para compartir.
